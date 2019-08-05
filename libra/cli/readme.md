@@ -15,4 +15,5 @@ Poleceniem **account create** można tworzy nowy portfel
 >libra% account 0 mint 23456
 >usage: account \<arg\>
 
-https://github.com/cwawrentowicz/inne/blob/master/libra/cli/testnet1.png
+![testnet1](https://github.com/cwawrentowicz/inne/blob/master/libra/cli/testnet1.png)
+
