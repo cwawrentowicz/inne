@@ -5,7 +5,7 @@ Organizacja The Libra Association udostępniła Libra Blockchain (łańcuch blok
 Poleceniem **account create** można tworzy nowy portfel
  
 *libra% account create
-\\>> Creating/retrieving next account from wallet
+\>\>Creating/retrieving next account from wallet
 Created/retrieved account #0 address 4712bf15a1d8ed789517dc7d568d8c7bc4c85ff2561a338483b8c3c4345e6952
 libra% account create
 >> Creating/retrieving next account from wallet
