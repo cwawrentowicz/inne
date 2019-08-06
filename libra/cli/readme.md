@@ -12,14 +12,12 @@ Poleceniem **account create** tworzy nowy portfel
 >\>\> Creating/retrieving next account from wallet
 >Created/retrieved account #1 address a0332c1f3d66c588c025e081e0dca56b38f631304c9d3c4c9cbd9f7e3b0dec7a
 
-W powyższym przykładzie utworzono dwa portfele. Podczas transakcji można posługiwać się  pełnym adresem portfela lub jego numerem (tu odpowiednio 0 i 1). 
+W powyższym przykładzie utworzono dwa portfele. Podczas transakcji można posługiwać się  pełnym adresem portfela lub jego numerem (tu odpowiednio 0 i 1).  Teraz za pomocą parametru "mint"  dla konta o numerze 0 „kopiemy” walutę to jest kwotę  23456 "Libra" 
 
 >libra% account 0 mint 23456
 >usage: account \<arg\>
 
-![testnet1.png](https://github.com/cwawrentowicz/inne/blob/master/libra/cli/images/testnet1.jpg)
+![testnet1.png](images/testnet1.png)
 
-<img src="images/testnet1.png">
 
-<img src="https://github.com/cwawrentowicz/inne/blob/master/libra/cli/images/testnet1.png", width="200">
 
