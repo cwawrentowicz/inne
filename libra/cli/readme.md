@@ -2,7 +2,7 @@
 
 Organizacja The Libra Association udostępniła Libra Blockchain (łańcuch bloków Libra) o nazwie TestNet,   Pozwala on na wykonanie testowych transakcji przy wykorzystaniu narzędzia CLI (command line interface ). Dokładny sposób  instalacji CLI (obecnie obsługiwane są tylko systemy operacyjne Linux i macOS) został  opisany pod adresem https://developers.libra.org/docs/my-first-transaction. 
 
-Poleceniem **account create** tworzy nowy portfel
+Poleceniem **account create** tworzymy nowy portfel
  
 >libra% account create
 >\>\>Creating/retrieving next account from wallet
