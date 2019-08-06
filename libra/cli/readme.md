@@ -17,5 +17,5 @@ W powyższym przykładzie utworzono dwa portfele. Podczas transakcji można pos�
 >libra% account 0 mint 23456
 >usage: account \<arg\>
 
-![testnet1](https://github.com/cwawrentowicz/inne/blob/master/libra/cli/testnet1.png)
+![https://github.com/cwawrentowicz/inne/blob/master/libra/cli/testnet1.png](https://github.com/cwawrentowicz/inne/blob/master/libra/cli/testnet1.png)
 
