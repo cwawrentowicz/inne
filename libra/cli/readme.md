@@ -27,3 +27,8 @@ Wykonujemy pierwszę transakcję z konta o numerze 0 na konto o numerze 1 przele
 >To query for transaction status, run: query txn_acc_seq 0 0 \<fetch_events=true\|false\>
 >libra% 
 
+Korzystając ze np. strony  https://libexplorer.com możemy sprawdzić zawartość naszych portfeli i wykonaną transakcję
+
+![testnet2.png](images/testnet2.png)
+
+![testnet3.png](images/testnet3.png)
