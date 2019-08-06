@@ -19,7 +19,7 @@ W powyższym przykładzie utworzono dwa portfele. Podczas transakcji można pos�
 
 ![testnet1.png](images/testnet1.png)
 
-Wykonujemy pierwszę transakcję z konta o numerze 0 na konto o numerze 1 przelewamy kwotę 56LIB
+Wykonujemy pierwszą transakcję z konta o numerze 0 na konto o numerze 1 przelewamy kwotę 56LIB
 
 >libra% transfer 0 1 56
 >\>\> Transferring
@@ -27,7 +27,7 @@ Wykonujemy pierwszę transakcję z konta o numerze 0 na konto o numerze 1 przele
 >To query for transaction status, run: query txn_acc_seq 0 0 \<fetch_events=true\|false\>
 >libra% 
 
-Korzystając ze np. strony  https://libexplorer.com możemy sprawdzić zawartość naszych portfeli i wykonaną transakcję
+Korzystając np. ze  strony  https://libexplorer.com możemy sprawdzić zawartość naszych portfeli i wykonaną transakcję
 
 ![testnet2.png](images/testnet2.png)
 
