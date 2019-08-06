@@ -18,4 +18,5 @@ W powyższym przykładzie utworzono dwa portfele. Podczas transakcji można pos�
 >usage: account \<arg\>
 
 ![https://github.com/cwawrentowicz/inne/blob/master/libra/cli/testnet1.png](images/testnet1.png)
+<img src="https://github.com/cwawrentowicz/inne/blob/master/libra/cli/images/testnet1.pngg", width="200">
 
