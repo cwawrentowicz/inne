@@ -19,6 +19,7 @@ W powyższym przykładzie utworzono dwa portfele. Podczas transakcji można pos�
 
 ![testnet1.png](images/testnet1.png)
 
+<img src="images/testnet1.png">
 
 <img src="https://github.com/cwawrentowicz/inne/blob/master/libra/cli/images/testnet1.png", width="200">
 
