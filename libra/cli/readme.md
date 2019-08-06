@@ -19,5 +19,11 @@ W powyższym przykładzie utworzono dwa portfele. Podczas transakcji można pos�
 
 ![testnet1.png](images/testnet1.png)
 
+Wykonujemy pierwszę transakcję z konta o numerze 0 na konto o numerze 56 przelewamy kwotę 56 "Libra"
 
+>libra% transfer 0 1 56
+>\>\> Transferring
+>Transaction submitted to validator
+>To query for transaction status, run: query txn_acc_seq 0 0 \<fetch_events=true\|false\>
+>libra% 
 
